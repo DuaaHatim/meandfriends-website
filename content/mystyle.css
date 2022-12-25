@@ -188,7 +188,7 @@ button {
 
 }
 
-@media screen and (max-width: 620px){
+@media only screen and (max-width: 620px){
 body {
 	width: auto;
 	height: auto;
