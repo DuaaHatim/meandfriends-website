@@ -168,7 +168,7 @@ div {
 	font-size: 24px;
 }	
 .centered, .corner-right , .top-right{
-	font-size:24px;
+	font-size:22px;
 }
 .bottom-left{
 	font-size:18px;
@@ -187,7 +187,7 @@ button {
 }
 .centered {
 	top: 38%;
-	right: 40%;
+	right: 45%;
 }
 }
 
@@ -202,13 +202,13 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 12px;
+	font-size: 14px;
 }	
 .centered, .corner-right, .top-right{
 	font-size:12px;
 }
 .bottom-left{
-	font-size:9px;
+	font-size:10px;
 }
 button {
 	font-size: 12px;
@@ -224,6 +224,6 @@ button {
 }
 .centered {
 	top: 38%;
-	right: 40%;
+	right: 45%;
 }
 }
