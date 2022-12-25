@@ -165,16 +165,16 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 34px;
+	font-size: 24px;
 }	
 .centered, .corner-right , .top-right{
-	font-size:34px;
+	font-size:24px;
 }
 .bottom-left{
-	font-size:28px;
+	font-size:18px;
 }
 button {
-	font-size: 24px;
+	font-size: 18px;
 }
 #t1 {
 	font-size: 60px;
@@ -199,7 +199,7 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 18px;
+	font-size: 12px;
 }	
 .centered, .corner-right, .top-right{
 	font-size:12px;
