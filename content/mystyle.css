@@ -185,10 +185,7 @@ button {
 #c1 {
 	font-size: 28px;
 }
-.centered {
-	top: 38%;
-	right: 45%;
-}
+
 }
 
 @media only screen and (max-width: 620px){
@@ -222,8 +219,5 @@ button {
 #c1 {
 	font-size: 14px;
 }
-.centered {
-	top: 38%;
-	right: 45%;
-}
+
 }
