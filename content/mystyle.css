@@ -168,7 +168,7 @@ div {
 	font-size: 34px;
 }	
 .centered, .corner-right , .top-right{
-	font-size:48px;
+	font-size:34px;
 }
 .bottom-left{
 	font-size:28px;
@@ -221,6 +221,6 @@ button {
 }
 .centered {
 	top: 38%;
-	right: 75%;
+	right: 50%;
 }
 }
