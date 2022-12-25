@@ -1,5 +1,5 @@
 body {
-	width: 100%;
+	width: 100vw;
 	height: 100vh;
 	margin:0;
 	padding:0;
@@ -90,20 +90,22 @@ button {
 
 @media only screen and (max-width: 1024px){
 
-body {
+/* body {
 	width: auto;
 	height: auto;
-}
+} */
 
-div {
+/* div {
 	width: auto;
 	height: auto;
-}
+}*/
 .container {
 	font-size: 24px;
 }	
 .centered {
 	font-size:22px;
+	top:40%;
+	right:52%;
 }
 .bottom-left{
 	font-size:18px;
@@ -130,6 +132,8 @@ div {
 }	
 .centered{
 	font-size:14px;
+	top:40%;
+	right:52%;
 }
 .bottom-left{
 	font-size:11px;
@@ -155,6 +159,8 @@ div {
 }	
 .centered{
 	font-size:8px;
+	top:40$;
+	right:52%;
 }
 .bottom-left{
 	font-size:7px;
