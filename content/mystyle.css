@@ -168,13 +168,13 @@ div {
 	font-size: 34px;
 }	
 .centered, .corner-right , .top-right{
-	font-size:28px;
+	font-size:36px;
 }
 .bottom-left{
-	font-size:24px;
+	font-size:22px;
 }
 button {
-	font-size: 28px;
+	font-size: 20px;
 }
 #t1 {
 	font-size: 60px;
@@ -205,10 +205,10 @@ div {
 	font-size:12px;
 }
 .bottom-left{
-	font-size:10px;
+	font-size:9px;
 }
 button {
-	font-size: 16px;
+	font-size: 12px;
 }
 #t1 {
 	font-size: 30px;
@@ -218,5 +218,9 @@ button {
 }
 #c1 {
 	font-size: 14px;
+}
+.centered {
+	top: 38%;
+	right: 40%;
 }
 }
