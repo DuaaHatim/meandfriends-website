@@ -199,16 +199,49 @@ div {
 	height: auto;
 }
 .container {
-	font-size: 14px;
+	font-size: 18px;
 }	
 .centered, .corner-right, .top-right{
-	font-size:12px;
+	font-size:14px;
 }
 .bottom-left{
-	font-size:10px;
+	font-size:11px;
 }
 button {
 	font-size: 12px;
+}
+#t1 {
+	font-size: 30px;
+}
+#a1 {
+	font-size: 20px;
+}
+#c1 {
+	font-size: 14px;
+}
+
+}
+@media only screen and (max-width: 300px){
+body {
+	width: auto;
+	height: auto;
+}
+
+div {
+	width: auto;
+	height: auto;
+}
+.container {
+	font-size: 12px;
+}	
+.centered, .corner-right, .top-right{
+	font-size:9px;
+}
+.bottom-left{
+	font-size:8px;
+}
+button {
+	font-size: 9px;
 }
 #t1 {
 	font-size: 30px;
