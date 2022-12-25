@@ -3,6 +3,7 @@ body {
 	height: 100vh;
 	margin:0;
 	padding:0;
+	overflow:hidden;
 }
 
 div {
@@ -172,6 +173,7 @@ div {
 }
 .bottom-left{
 	font-size:18px;
+	left:10%;
 }
 button {
 	font-size: 18px;
@@ -206,6 +208,7 @@ div {
 }
 .bottom-left{
 	font-size:11px;
+	left:10%;
 }
 button {
 	font-size: 12px;
